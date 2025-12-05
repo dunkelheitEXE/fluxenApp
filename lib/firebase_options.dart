@@ -15,8 +15,6 @@ import 'package:flutter/foundation.dart'
 /// );
 /// ```
 
-
-
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
@@ -54,11 +52,11 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBAdKjpupToDHcbJS87wbEfCZFNEKRUviQ',
-    appId: '1:492675304786:android:cafa06d00b4800f0aebe8b',
-    messagingSenderId: '492675304786',
-    projectId: 'fluxen-b30ec',
-    storageBucket: 'fluxen-b30ec.firebasestorage.app',
+    apiKey: 'AIzaSyDGpPSnpvNs908R2GMkycEnixzAFPglM7E',
+    appId: '1:659756040536:android:c13a20d09136c23d8ca52d',
+    messagingSenderId: '659756040536',
+    projectId: 'fluxen-ca58f',
+    storageBucket: 'fluxen-ca58f.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(

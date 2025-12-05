@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "492675304786",
-    "project_id": "fluxen-b30ec",
-    "storage_bucket": "fluxen-b30ec.firebasestorage.app"
+    "project_number": "659756040536",
+    "project_id": "fluxen-ca58f",
+    "storage_bucket": "fluxen-ca58f.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:492675304786:android:cafa06d00b4800f0aebe8b",
+        "mobilesdk_app_id": "1:659756040536:android:c13a20d09136c23d8ca52d",
         "android_client_info": {
           "package_name": "com.example.fluxen"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBAdKjpupToDHcbJS87wbEfCZFNEKRUviQ"
+          "current_key": "AIzaSyDGpPSnpvNs908R2GMkycEnixzAFPglM7E"
         }
       ],
       "services": {
