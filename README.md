@@ -1,16 +1,9 @@
 # fluxen
 
-A new Flutter project.
+This app works connected to firebase. Made as a little scholar project, and it is still maintainging as a personal project. Its purpose is made requests to a base allocated in firebase.
 
-## Getting Started
+## Agradecimientos Especiales
 
-This project is a starting point for a Flutter application.
+Le agradezco a mi profesora Faride Hernández por su labor de enseñanza en materia de desarrollo de aplicaciones móviles
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I grateful with my teacher Faride Hernández by her labor to teach me about mobile app development
